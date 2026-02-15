@@ -1,4 +1,3 @@
-import { update } from "lodash";
 import { create } from "zustand";
 
 export const useProductStore = create((set) => ({
